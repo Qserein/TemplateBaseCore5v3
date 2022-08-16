@@ -1,0 +1,31 @@
+{
+  "recommendations": [
+    "vue.volar",
+    "vue.vscode-typescript-vue-plugin",
+    "ms-ceintl.vscode-language-pack-zh-hans",
+    "usernamehw.errorlens",
+    "aaron-bond.better-comments",
+    "formulahendry.auto-rename-tag",
+    "formulahendry.auto-close-tag",
+    "aliariff.auto-add-brackets",
+    "pranaygp.vscode-css-peek",
+    "wengerk.highlight-bad-chars",
+    "iuyoy.highlight-string-code",
+    "zignd.html-css-class-completion",
+    "ms-edgedevtools.vscode-edge-devtools",
+    "eg2.vscode-npm-script",
+    "christian-kohler.npm-intellisense",
+    "christian-kohler.path-intellisense",
+    "esbenp.prettier-vscode",
+    "sibiraj-s.vscode-scss-formatter",
+    "jock.svg",
+    "connorshea.vscode-test-explorer-status-bar",
+    "hbenl.vscode-test-explorer",
+    "dtsvet.vscode-wasm",
+    "voorjaar.windicss-intellisense",
+    "redhat.vscode-xml",
+    "redhat.vscode-yaml",
+    "slevesque.vscode-zipexplorer",
+    "arcanis.vscode-zipfs"
+  ]
+}

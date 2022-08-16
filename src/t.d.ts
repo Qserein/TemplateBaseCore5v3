@@ -1,0 +1,1 @@
+declare function $ref<T>(v: T): T
